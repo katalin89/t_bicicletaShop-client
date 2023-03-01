@@ -87,3 +87,18 @@ td {
   background:#cffc83;
 }
 
+.allBycicle{
+  display: flex ;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.newBicicleta{
+  display: flex ;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
